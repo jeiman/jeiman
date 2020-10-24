@@ -18,9 +18,11 @@ I'm a DevOps engineer based out of Kuala Lumpur, Malaysia.
 
 ### Skills
 
-* JavaScript / Node.js / Vue / Bootstrap
-* MySQL / PostgreSQL / MSSQL / Mongo / DynamoDB
+* Programming: JavaScript / Node.js / Vue / Bootstrap
+* Databases: MySQL / PostgreSQL / MSSQL / Mongo / DynamoDB
 * AWS: S3, EC2, IAM, DynamoDB, Route53, CloudFront, ACM, Lambda, SQS, SNS
 * Azure: VM, App Service, VNET, Azure DevOps, Storage Accounts, Azure Functions
-* CI/CD - Azure DevOps, Gitlab, Github Actions, Codefresh
+* CI/CD: Azure DevOps, Gitlab, Github Actions, Codefresh, Codacy
 * Scripting, Automation
+* Caching: Varnish Cache
+* Monitoring: Datadog
